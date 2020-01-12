@@ -5,5 +5,6 @@ Little bit of help is provided here if you need more directions of how to use it
 
 /*
     Video: https://www.youtube.com/watch?v=Va9UKGs1bwI
-    Don't forget to disable less secure app from Gmail: https://myaccount.google.com/lesssecureapps TODO:
+    
+    Don't forget to disable less secure app from Gmail: https://myaccount.google.com/lesssecureapps 
 */
